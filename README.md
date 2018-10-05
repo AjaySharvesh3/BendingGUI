@@ -14,7 +14,7 @@ BendingGUI is side-plugin for ProjectKorra that adds a custom interface for play
 - Get help with moves with the help tool
 - Toggle your bending off and on with the toggle tool
 - Combos can be shown with the combo toggle
-- BendingBoard can be toggled (if it's installed on the server)
+- BendingBoard can be toggled (if it's installed on the server).
 - Admins or OPs can edit everyone's bending without leaving the GUI
 
 ### Commands:
