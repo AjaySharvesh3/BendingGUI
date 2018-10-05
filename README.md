@@ -2,7 +2,7 @@
 
 BendingGUI is side-plugin for ProjectKorra that adds a custom interface for players to use with bending.
 
-<img src="hack_one.png" height=440 width =400 />
+<p align="center"><img src="hack_one.png" height=440 width =400 /></p>
 
 ### Feature List:
 
@@ -14,7 +14,7 @@ BendingGUI is side-plugin for ProjectKorra that adds a custom interface for play
 - Get help with moves with the help tool
 - Toggle your bending off and on with the toggle tool
 - Combos can be shown with the combo toggle
-- BendingBoard can be toggled (if it's installed on the server)
+- BendingBoard can be toggled (if it's installed on the server).
 - Admins or OPs can edit everyone's bending without leaving the GUI
 
 ### Commands:
@@ -37,7 +37,7 @@ There is also a */bending gui* command if you like things nice and tidy!
 
 ### How to use:
 
-<img src="hack_two.png" height=440 width =400 />
+<p align="center"><img src="hack_two.png" height=440 width =400 /></p>
 
 Moves/Abilities are displayed along the top of the interface, with arrows to go to the next page, etc. To bind a move, you simply click the move you want to bind and then click the slot you want to bind it to (the stained glass). Slots with moves will be colored and will display what move they are, and can also be removed with the removal tool (the barrier icon).
 
@@ -52,18 +52,7 @@ The main configuration file is found at _/plugins/BendingGUI/config.yml_. In the
 
 lang.yml also contains all the short descriptions for all the moves. I've tried to include all moves from JedCore as well as PK, but if you find a move saying "***Description coming soon!***", just add it to the lang.yml
 
-### Working Versions:
-ProjectKorra 1.8.4: BendingGUI 1.1.9
-ProjectKorra 1.8.2/1.8.3 - BendingGUI 1.1.7
-ProjectKorra 1.8.0/1.8.1 - BendingGUI 1.1.5
-ProjectKorra 1.8.0 (Beta 9) - BendingGUI 1.0.6
-ProjectKorra 1.7.0 - BendingGUI 1.0.5
-ProjectKorra 1.7.0 (Beta 12) - BendingGUI 1.0.2
+### Requirements:
 
-Latest version works on Spigot 1.9 through to 1.11
-
-
-Hope you enjoy :D
-
-
-"This is not an official ProjectKorra plugin, therefore, no official support will be provided in any threads other than this one. Use at your own risk."
+- Spigot 1.12 
+- ProjectKorra 1.8.7
